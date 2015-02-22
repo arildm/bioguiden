@@ -1,0 +1,17 @@
+{
+  "name": "klavaro/bioguiden",
+  "description": "PHP Client for the SOAP API provided by Swedish cinema database Bioguiden",
+  "version": "1.0.0-dev",
+  "authors": [
+    {
+      "name": "Arla",
+      "email": "arild@klavaro.se"
+    }
+  ],
+  "require": {
+    "php": "~5.0.1"
+  },
+  "autoload": {
+    "psr": {"Klavaro\\Bioguiden\\": "src/"}
+  }
+}

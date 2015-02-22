@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso8859-1" ?>
+<!-- This is a template XML document for use in a Bioguiden request. -->
+<!-- The schema attribute of <document> is set in the Document constructor. -->
+<document>
+    <information>
+        <name>Request</name>
+        <description>Request from Bioguiden</description>
+        <created>
+            <!-- This date is set in the Document constructor. -->
+        </created>
+        <server>Bioguiden</server>
+        <ip>127.0.0.1</ip>
+    </information>
+    <data>
+        <!-- The request data is set by the Service definition used with the client. -->
+    </data>
+</document>

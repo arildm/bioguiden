@@ -12,6 +12,6 @@
     "php": "~5.0.1"
   },
   "autoload": {
-    "psr": {"Klavaro\\Bioguiden\\": "src/"}
+    "psr-4": {"Klavaro\\Bioguiden\\": "src/"}
   }
 }
